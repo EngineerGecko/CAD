@@ -1,4 +1,5 @@
 # CAD
+License:CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
 
 Here are some cad projects Cyber deck idea and shapes hopefully more in the future
